@@ -4,7 +4,7 @@
 //////////////////////////////////////////
 
 //Overseas Group
-EGAR_TWR;118.100;
+EGAR_AG_TWR;118.100;;;ATIS\noatis.atis;1;
 EGYP_TWR;133.350;EGYP;
 EGYP_T_APP;125.950;EGYP;
 EGYP_APP;118.500;EGYP;
